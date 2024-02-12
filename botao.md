@@ -1,1 +1,1 @@
-Aqui, eu codifico a nova funcionalidade, feature. Nesse caso, é um botão.
+Aqui, eu codifico a nova funcionalidade, feature. Neste caso, é um botão.
